@@ -1,0 +1,8 @@
+{
+    "Test Case 1: Multi-step Form - should load the initial step correctly": "TEST_STATUS_SUCCESS",
+    "Test Case 2: Multi-step Form - should navigate through the steps with valid input": "TEST_STATUS_SUCCESS",
+    "Test Case 3: Multi-step Form - should allow plan selection and proceed to next step": "TEST_STATUS_SUCCESS",
+    "Test Case 4: Multi-step Form - should display a validation message if the e-mail is not in correct format": "TEST_STATUS_SUCCESS",
+    "Test Case 5: Multi-step Form - should allow add-ons selection and proceed to next step": "TEST_STATUS_SUCCESS",
+    "Test Case 6: Multi-step Form - should display validation messages when required fields are empty": "TEST_STATUS_SUCCESS"
+}
